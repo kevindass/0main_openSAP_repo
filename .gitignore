@@ -15,3 +15,8 @@ AppVariantPreviewPayload.zip
 mergedManifestDescriptor.json
 APIExternalProducer.js
 .*/APIExternalProducer.js
+
+/Kevin Dass/
+/Ignore che-project.json/
+*.json  
+SampleTest.txt
